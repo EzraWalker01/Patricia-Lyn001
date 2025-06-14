@@ -9,4 +9,12 @@ Patricia-Lyn001 is a simple AI-powered chatbot written in Python. It uses `sciki
 - Modular and understandable codebase.
 
 ## Project Structure
-
+├── app.py
+├── chatbot/
+│ ├── init.py
+│ ├── core.py
+│ ├── model.py
+│ └── utils.py
+├── data/
+│ └── intents.json
+├── requirements.txt
