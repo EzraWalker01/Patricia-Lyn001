@@ -25,3 +25,25 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 pip install -r requirements.txt
 python app.py
+
+---
+
+### `.gitignore`
+
+```gitignore
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS and IDE files
+.DS_Store
+*.swp
+
