@@ -18,3 +18,10 @@ Patricia-Lyn001 is a simple AI-powered chatbot written in Python. It uses `sciki
 ├── data/
 │ └── intents.json
 ├── requirements.txt
+## Setup
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
+pip install -r requirements.txt
+python app.py
